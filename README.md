@@ -10,7 +10,7 @@
 
 ### Books
 
-[<img align="center" alt="PNG" src="https://1.bp.blogspot.com/-1pUqkPnRua0/YOUzQLVs0mI/AAAAAAAAIQ4/-rhr9SpRBnId9E5AtqDanYDXUggFSb7pACLcBGAsYHQ/s500/Untitled%2Bdesign%2B%252850%2529.png" width="500" height="200" />](books/free-programming-books.md)English
+[<img align="center" alt="PNG" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-plus-5.png" width="30" height="30" />](books/free-programming-books.md)English
 
 #### Other Languages
 
