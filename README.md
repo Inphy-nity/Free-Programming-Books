@@ -10,7 +10,7 @@
 
 ### Books
 
-[English](books/free-programming-books.md)<a href="books/free-programming-books.md" class="button primary">Publish post</a> 
+[English](books/free-programming-books.md)
 
 #### Other Languages
 
