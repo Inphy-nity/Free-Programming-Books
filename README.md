@@ -115,5 +115,7 @@ Free Podcasts and Screencasts:
 
   [<img align="center" alt="PNG" src="https://image.flaticon.com/icons/png/512/733/733579.png" width="50" height="50" />](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
   [<img align="center" alt="PNG" src="https://image.flaticon.com/icons/png/512/174/174848.png" width="50" height="50" />](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
-  [<img align="center" alt="PNG" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50" height="50" />](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=) [<img align="center" alt="PNG" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" width="50" height="50" />](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
+  [<img align="center" alt="PNG" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50" height="50" />](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=) 
+  
+  [<img align="center" alt="PNG" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" width="50" height="50" />](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
 
