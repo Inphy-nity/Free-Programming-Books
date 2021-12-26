@@ -1,33 +1,33 @@
 ### Index
 
 
-#Code with Harry  ✰✰✰✰✰
+# Code with Harry  ✰✰✰✰✰
 
 ### Code With Harry
 ##### Learn in One Video:
-[Python[15 Hr]](https://www.youtube.com/watch?v=gfDE2a7MKjA&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
-[Python Advance[3.5 Hr]]
-[Python[1 Hr]]
-[Python[2 Hr]]
-[Python[15 Min]]
-[JavaScript[1 Hr]]
-[C[1.3 Hr]]
-[php[1 Hr]]
-[php[2.3 Hr]]
-[php[Project]]
-[HTML[30 Min]]
-[CSS[8.5 Hr]]
-[CSS[1.4 Hr]]
-[Wordpress[3.2 Hr]]
-[Angular[2 Hr]]
-[Java[2.3 Hr]]
-[Web Scraping[1 Hr]]
-[MongoDB[2 Hr]]
-[Numpy[1 Hr]]
-[Android Dev[12 Hr]]
-[Linux[1 Hr] -
-[JQuery[1.1 Hr]]
-[Git and GitHub[1.1 Hr]]
+* [Python[15 Hr]](https://www.youtube.com/watch?v=gfDE2a7MKjA&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Python Advance[3.5 Hr]](https://www.youtube.com/watch?v=61a7UkDO50s&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Python[1 Hr]](https://www.youtube.com/watch?v=qHJjMvHLJdg&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Python[2 Hr]](https://www.youtube.com/watch?v=ihk_Xglr164&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Python[15 Min]](https://www.youtube.com/watch?v=fr1f84rg4Nw&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [JavaScript[1 Hr]](https://www.youtube.com/watch?v=onbBV0uFVpo&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [C[1.3 Hr]](https://www.youtube.com/watch?v=YXcgD8hRHYY&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [php[1 Hr]](https://www.youtube.com/watch?v=xW7ro3lwaCI&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [php[2.3 Hr]](https://www.youtube.com/watch?v=1SnPKhCdlsU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [php[Project]](https://www.youtube.com/watch?v=-al2bECumKg&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [HTML[30 Min]](https://www.youtube.com/watch?v=E3ByCRqE7Lo&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [CSS[8.5 Hr]](https://www.youtube.com/watch?v=Edsxf_NBFrw&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [CSS[1.4 Hr]](https://www.youtube.com/watch?v=u5-K_ua9sOw&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Wordpress[3.2 Hr]](https://www.youtube.com/watch?v=GlLRYml8mCY&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Angular[2 Hr]](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Java[2.3 Hr]](https://www.youtube.com/watch?v=rV_3Lewxx6o&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Web Scraping[1 Hr]](https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [MongoDB[2 Hr]](https://www.youtube.com/watch?v=oSIv-E60NiU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Numpy[1 Hr]](https://www.youtube.com/watch?v=Rbh1rieb3zc&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Android Dev[12 Hr]](https://www.youtube.com/watch?v=mXjZQX3UzOs&t=0s)
+* [Linux[1 Hr](https://www.youtube.com/watch?v=_tCY-c-sPZc&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [JQuery[1.1 Hr]](https://www.youtube.com/watch?v=YFlx1C8XwR0&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
+* [Git and GitHub[1.1 Hr]](https://www.youtube.com/watch?v=gwWKnnCMQ5c&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&t=0s)
 
 
 
