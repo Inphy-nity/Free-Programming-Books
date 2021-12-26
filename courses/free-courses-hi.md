@@ -1,17 +1,34 @@
 ### Index
 
-* [Android](#Android)
-* [C](#C)
-* [C++](#C++)
-* [Data Structures](#DataStructures)
-* [DevOps](#DevOps)
-* [Java](#Java)
-* [Javascript](#Javascript)
-  * [React](#react)
-* [Python](#Python)
-* [R](#r)
-* [Ruby](#ruby)
-  * [Ruby on Rails](#ruby-on-rails)
+
+[Code with Harry  ✰✰✰✰✰](#Code With Harry)
+
+### Code With Harry
+##### Learn in One Video:
+[Python[15 Hr]]
+[Python Advance[3.5 Hr]]
+[Python[1 Hr]]
+[Python[2 Hr]]
+[Python[15 Min]]
+[JavaScript[1 Hr]]
+[C[1.3 Hr]]
+[php[1 Hr]]
+[php[2.3 Hr]]
+[php[Project]]
+[HTML[30 Min]]
+[CSS[8.5 Hr]]
+[CSS[1.4 Hr]]
+[Wordpress[3.2 Hr]]
+[Angular[2 Hr]]
+[Java[2.3 Hr]]
+[Web Scraping[1 Hr]]
+[MongoDB[2 Hr]]
+[Numpy[1 Hr]]
+[Android Dev[12 Hr]]
+[Linux[1 Hr] -
+[JQuery[1.1 Hr]]
+[Git and GitHub[1.1 Hr]]
+
 
 
 ### Android
